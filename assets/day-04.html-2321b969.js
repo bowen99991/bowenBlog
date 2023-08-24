@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as n,b as e,d as o}from"./app-09e8bab5.js";const s={},c=e("hr",null,null,-1),r=e("h1",{id:"五、盒子模型",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#五、盒子模型","aria-hidden":"true"},"#"),o(" 五、盒子模型")],-1),_=e("hr",null,null,-1),d=[c,r,_];function l(h,i){return a(),n("div",null,d)}const f=t(s,[["render",l],["__file","day-04.html.vue"]]);export{f as default};
