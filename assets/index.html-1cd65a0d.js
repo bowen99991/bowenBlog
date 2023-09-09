@@ -1,0 +1,4 @@
+const data = JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"","lang":"en-US","frontmatter":{"home":true,"modules":["BannerBrand","Blog","MdContent","Footer"],"bannerBrand":{"bgImage":"/bg.svg","title":"麦田守望者’s Blog","description":"全栈开发小哥，用编程做点有趣的事！","tagline":"99 年 11 月生，24 岁，男性，热爱编程和分享。本科毕业，担任全栈开发工程师，持续给大家分享编程干货和好玩的知识。我的生活比较简单，平时绝大多数的时间都花在了工作 + 创作上，知识分享是我的爱好，想给大家留下一些有用的东西。"},"buttons":[{"text":"Guide","link":"/docs/guide/introduce"},{"text":"Default Style","link":"/docs/style-default-api/introduce","type":"plain"}],"socialLinks":[{"icon":"LogoGithub","link":"https://github.com/vuepress-reco/vuepress-theme-reco"}],"blog":{"socialLinks":[{"icon":"LogoGithub","link":"https://github.com/recoluan"}]},"isShowTitleInHome":true,"actionText":"About","actionLink":"/views/other/about"},"headers":[],"git":{},"filePathRelative":"README.md"}');
+export {
+  data
+};
