@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as s,d as c}from"./app-acb606a6.js";const n={},o=c("p",null,"This is api.",-1),_=[o];function l(a,i){return t(),s("div",null,_)}const d=e(n,[["render",l],["__file","plugin.html.vue"]]);export{d as default};
