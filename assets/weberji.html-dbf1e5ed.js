@@ -1,0 +1,4 @@
+const data = JSON.parse('{"key":"v-4447e02a","path":"/blogs/qita/weberji.html","title":"Web程序设计证书","lang":"en-US","frontmatter":{"title":"Web程序设计证书","date":"2023/09/24","tags":["Web二级"],"categories":["其他"]},"headers":[{"level":2,"title":"第一卷","slug":"第一卷","link":"#第一卷","children":[{"level":3,"title":"一，选择题   p40","slug":"一-选择题-p40","link":"#一-选择题-p40","children":[]},{"level":3,"title":"二，基本操作  p41","slug":"二-基本操作-p41","link":"#二-基本操作-p41","children":[]},{"level":3,"title":"三，简单应用  p42","slug":"三-简单应用-p42","link":"#三-简单应用-p42","children":[]},{"level":3,"title":"四，综合应用 p43","slug":"四-综合应用-p43","link":"#四-综合应用-p43","children":[]}]},{"level":2,"title":"第二卷","slug":"第二卷","link":"#第二卷","children":[{"level":3,"title":"一，选择题","slug":"一-选择题","link":"#一-选择题","children":[]}]}],"git":{},"filePathRelative":"blogs/其他/web二级.md"}');
+export {
+  data
+};
