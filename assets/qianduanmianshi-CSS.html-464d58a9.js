@@ -1,0 +1,4 @@
+const data = JSON.parse('{"key":"v-a35c56b4","path":"/blogs/qiuzhi-mianshi/qianduanmianshi-CSS.html","title":"Web前端面试-CSS","lang":"en-US","frontmatter":{"title":"Web前端面试-CSS","date":"2023/06/01","tags":["Web前端面试"],"categories":["求职-面试"],"hideComments":true,"sticky":1},"headers":[{"level":2,"title":"1. padding和margin有什么不同？（字节）","slug":"_1-padding和margin有什么不同-字节","link":"#_1-padding和margin有什么不同-字节","children":[]},{"level":2,"title":"2.vw和%有什么区别？","slug":"_2-vw和-有什么区别","link":"#_2-vw和-有什么区别","children":[]},{"level":2,"title":"3.如何让谷歌浏览器支持小字体？","slug":"_3-如何让谷歌浏览器支持小字体","link":"#_3-如何让谷歌浏览器支持小字体","children":[]},{"level":2,"title":"4.使用CSS画图形","slug":"_4-使用css画图形","link":"#_4-使用css画图形","children":[]},{"level":2,"title":"","slug":"","link":"#","children":[]}],"git":{},"filePathRelative":"blogs/求职-面试/前端面试-CSS.md"}');
+export {
+  data
+};
