@@ -89,23 +89,23 @@
   background-image: url("https://github.githubassets.com/images/mona-loading-default.gif");
 }
 .btn-primary {
-  border-color: rgb(217 152 160 / 0.9);
-  background-color: rgb(217 152 160 / 0.9);
+  border-color: rgb(96 40 46 / 0.9);
+  background-color: rgb(96 40 46 / 0.9);
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 .btn-primary:disabled {
-  border-color: rgb(217 152 160 / 0.8);
-  background-color: rgb(217 152 160 / 0.8);
+  border-color: rgb(96 40 46 / 0.8);
+  background-color: rgb(96 40 46 / 0.8);
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 .btn-primary:hover, 
 .btn-primary:active {
   --tw-border-opacity: 1;
-  border-color: rgb(217 152 160 / var(--tw-border-opacity));
+  border-color: rgb(96 40 46 / var(--tw-border-opacity));
   --tw-bg-opacity: 1;
-  background-color: rgb(217 152 160 / var(--tw-bg-opacity));
+  background-color: rgb(96 40 46 / var(--tw-bg-opacity));
 }
 /* 标记确认功能在评论功能中并不需要，且点击无效，暂时移除 */
 .gsc-upvote-button {
@@ -116,24 +116,24 @@
 }
 .gsc-social-reaction-summary-item.has-reacted {
   --tw-border-opacity: 1;
-  border-color: rgb(217 152 160 / var(--tw-border-opacity));
+  border-color: rgb(96 40 46 / var(--tw-border-opacity));
   background-color: transparent;
   --tw-text-opacity: 1;
-  color: rgb(217 152 160 / var(--tw-text-opacity));
+  color: rgb(96 40 46 / var(--tw-text-opacity));
 }
 .gsc-social-reaction-summary-item.has-reacted:hover {
-  background-color: rgb(217 152 160 / 0.5);
+  background-color: rgb(96 40 46 / 0.5);
 }
 .color-box-border-info {
   border-color: rgba(200, 200, 200, .32);
 }
 .gsc-comment-box-write:focus-within {
   --tw-border-opacity: 1;
-  border-color: rgb(217 152 160 / var(--tw-border-opacity));
+  border-color: rgb(96 40 46 / var(--tw-border-opacity));
   --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);
   --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);
   box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 #0000);
-  --tw-ring-color: rgb(217 152 160 / 0.8);
+  --tw-ring-color: rgb(96 40 46 / 0.8);
 }
 .color-bg-tertiary {
   --tw-bg-opacity: 1;
@@ -148,11 +148,11 @@
 }
 .form-control:focus {
   --tw-border-opacity: 1;
-  border-color: rgb(217 152 160 / var(--tw-border-opacity));
+  border-color: rgb(96 40 46 / var(--tw-border-opacity));
   --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);
   --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);
   box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 #0000);
-  --tw-ring-color: rgb(217 152 160 / 0.8);
+  --tw-ring-color: rgb(96 40 46 / 0.8);
 }
 .gsc-comment-box-textarea:focus {
   border-color: rgba(200, 200, 200, .32);
@@ -163,7 +163,7 @@
 .color-fg-accent,  .color-text-link,  .link-primary:hover,  .link-secondary:hover, 
 .gsc-reactions-button.popover-only:hover {
   --tw-text-opacity: 1;
-  color: rgb(217 152 160 / var(--tw-text-opacity));
+  color: rgb(96 40 46 / var(--tw-text-opacity));
 }
 .gsc-comment-box-buttons a:active,  .gsc-comment-box-buttons a:link,  .gsc-comment-box-buttons a:focus,  .gsc-comment-box-buttons a:visited {
   --tw-text-opacity: 1;
@@ -190,7 +190,7 @@
   border-bottom-width: 2px !important;
   border-style: solid;
   --tw-border-opacity: 1;
-  border-color: rgb(217 152 160 / var(--tw-border-opacity));
+  border-color: rgb(96 40 46 / var(--tw-border-opacity));
   --tw-bg-opacity: 1;
   background-color: rgb(249 250 251 / var(--tw-bg-opacity));
 }
@@ -208,7 +208,7 @@
 }
 .gsc-right-header button[aria-selected='true'] {
   --tw-bg-opacity: 1;
-  background-color: rgb(217 152 160 / var(--tw-bg-opacity));
+  background-color: rgb(96 40 46 / var(--tw-bg-opacity));
   color: rgba(255, 255, 245, .86);
 }
 .color-fg-default,  .color-text-primary,  .link-primary {
