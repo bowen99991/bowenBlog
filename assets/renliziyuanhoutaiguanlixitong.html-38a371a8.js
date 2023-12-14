@@ -1,0 +1,4 @@
+const data = JSON.parse('{"key":"v-0cb5eed0","path":"/blogs/gerenxiangmu/renliziyuanhoutaiguanlixitong.html","title":"OJ项目","lang":"en-US","frontmatter":{"title":"OJ项目","date":"2023/01/01","tags":["Vue项目"],"categories":["个人项目"]},"headers":[{"level":2,"title":"后台管理系统","slug":"后台管理系统","link":"#后台管理系统","children":[]},{"level":2,"title":"一,\\t项目介绍","slug":"一-项目介绍","link":"#一-项目介绍","children":[{"level":3,"title":"1,\\t项目源码及接口","slug":"_1-项目源码及接口","link":"#_1-项目源码及接口","children":[]},{"level":3,"title":"2. 拉取项目基础代码","slug":"_2-拉取项目基础代码","link":"#_2-拉取项目基础代码","children":[]},{"level":3,"title":"3.\\t项目目录和入口文件介绍","slug":"_3-项目目录和入口文件介绍","link":"#_3-项目目录和入口文件介绍","children":[]}]},{"level":2,"title":"二,\\t项目开发","slug":"二-项目开发","link":"#二-项目开发","children":[{"level":3,"title":"1，登录","slug":"_1-登录","link":"#_1-登录","children":[]}]}],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"filePathRelative":"blogs/个人项目/人力资源后台管理系统.md"}');
+export {
+  data
+};

@@ -1,0 +1,4 @@
+const data = JSON.parse('{"key":"v-4a60f61a","path":"/docs/Java/JavaSE.html","title":"JavaSE","lang":"en-US","frontmatter":{"title":"JavaSE","date":"2023-08-01T00:00:00.000Z","sidebar":"auto","tags":["Java"],"categories":null},"headers":[{"level":2,"title":"一,\\tJava","slug":"一-java","link":"#一-java","children":[{"level":3,"title":"1,\\tIdea 设置","slug":"_1-idea-设置","link":"#_1-idea-设置","children":[]},{"level":3,"title":"2,\\t快捷键","slug":"_2-快捷键","link":"#_2-快捷键","children":[]},{"level":3,"title":"3,\\t工具插件","slug":"_3-工具插件","link":"#_3-工具插件","children":[]},{"level":3,"title":"4,\\t使用技巧","slug":"_4-使用技巧","link":"#_4-使用技巧","children":[]},{"level":3,"title":"5,\\t调试","slug":"_5-调试","link":"#_5-调试","children":[]}]},{"level":2,"title":"二,\\t Java 基础","slug":"二-java-基础","link":"#二-java-基础","children":[]}],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"filePathRelative":"docs/Java/JavaSE.md"}');
+export {
+  data
+};
