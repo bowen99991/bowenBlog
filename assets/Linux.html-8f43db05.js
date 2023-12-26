@@ -1,0 +1,17 @@
+import { _ as _export_sfc, o as openBlock, c as createElementBlock, d as createStaticVNode } from "./app-15b8b10f.js";
+const _imports_0 = "/bowenBlog/assets/image-20231223101949027-5ee5ae89.png";
+const _imports_1 = "/bowenBlog/assets/image-20231223102117702-539a83a1.png";
+const _imports_2 = "/bowenBlog/assets/image-20231223102403580-0427a746.png";
+const _imports_3 = "/bowenBlog/assets/image-20231223104038573-713a4576.png";
+const _sfc_main = {};
+const _hoisted_1 = /* @__PURE__ */ createStaticVNode('<h2 id="一-linux" tabindex="-1"><a class="header-anchor" href="#一-linux" aria-hidden="true">#</a> 一, Linux</h2><hr><h3 id="_1-linux-方向" tabindex="-1"><a class="header-anchor" href="#_1-linux-方向" aria-hidden="true">#</a> 1, Linux 方向</h3><p><img src="' + _imports_0 + '" alt="image-20231223101949027"></p><p>运行环境:</p><ul><li>虚拟机 (推荐)</li><li>WSL2</li><li>云服务器 (收费)</li><li>物理机双系统 (安装繁琐)</li><li>树莓派 (性能较差)</li></ul><h3 id="_2-云服务器运行-linux" tabindex="-1"><a class="header-anchor" href="#_2-云服务器运行-linux" aria-hidden="true">#</a> 2, 云服务器运行 Linux</h3><blockquote><p>方便随时可用</p></blockquote><p><img src="' + _imports_1 + '" alt="image-20231223102117702"></p><h3 id="_3-mobaxterm-工具" tabindex="-1"><a class="header-anchor" href="#_3-mobaxterm-工具" aria-hidden="true">#</a> 3, MobaXterm 工具</h3><p>下载</p><p>配置</p><p><img src="' + _imports_2 + '" alt="image-20231223102403580"></p><h3 id="_4-winscp-工具" tabindex="-1"><a class="header-anchor" href="#_4-winscp-工具" aria-hidden="true">#</a> 4, WinSCP 工具</h3><blockquote><p>windows 和 linux 系统之间传输文件工具</p></blockquote><h3 id="_5-目录结构" tabindex="-1"><a class="header-anchor" href="#_5-目录结构" aria-hidden="true">#</a> 5, 目录结构</h3><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>-- bin	主要存放常用命令\n-- boot	linux启动需要的核心文件\n-- dev	存放设备文件\n-- etc	存放用户所需要的配置文件和子目录		\n-- home	存放用户目录\n-- lib	存放一些动态库, 供应用程序调用\n-- lost+found	一般为空,\n-- media	自动挂在自动识别的设备\n-- mnt	提供用户用于挂载临时别的文件系统\n-- proc	访问目录来获取系统信息\n-- root	超级用户的主目录\n-- sbin	系统管理员所用到的系统管理程序\n-- srv	主要存放一些系统服务启动之后所要用到的数据\n-- sys	\n-- run	主要存放系统运行时需要用到的文件\n-- usr	存放用户的应用程序(类似windows的programfiles)\n-- tmp	存放临时文件\n-- var	主要存放一些经常被修改的文件\n...\n</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3 id="_6-文件颜色标识" tabindex="-1"><a class="header-anchor" href="#_6-文件颜色标识" aria-hidden="true">#</a> 6, 文件颜色标识</h3><p><img src="' + _imports_3 + '" alt="image-20231223104038573"></p><h2 id="二-命令" tabindex="-1"><a class="header-anchor" href="#二-命令" aria-hidden="true">#</a> 二, 命令</h2><hr>', 21);
+const _hoisted_22 = [
+  _hoisted_1
+];
+function _sfc_render(_ctx, _cache) {
+  return openBlock(), createElementBlock("div", null, _hoisted_22);
+}
+const Linux_html = /* @__PURE__ */ _export_sfc(_sfc_main, [["render", _sfc_render], ["__file", "Linux.html.vue"]]);
+export {
+  Linux_html as default
+};
