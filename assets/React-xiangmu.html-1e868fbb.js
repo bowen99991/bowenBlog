@@ -1,0 +1,14 @@
+import { _ as _export_sfc, o as openBlock, c as createElementBlock, d as createStaticVNode } from "./app-b4839004.js";
+const _imports_0 = "/bowenBlog/assets/image-20240106160850358-a1ac84ab.png";
+const _sfc_main = {};
+const _hoisted_1 = /* @__PURE__ */ createStaticVNode('<hr><h2 id="一-从-0-定制基础前端模板" tabindex="-1"><a class="header-anchor" href="#一-从-0-定制基础前端模板" aria-hidden="true">#</a> 一, 从 0 定制基础前端模板</h2><hr><p>框架名称: Ant Design Pro</p><blockquote><p>一个基于 React 框架的且包含 Ant Design 组件库的脚手架</p></blockquote><p><strong>官方地址:</strong> https://pro.ant.design/zh-CN/</p><p>模板预览地址: https://preview.pro.ant.design/dashboard/analysis</p><p><strong>整体架构</strong></p><p><img src="' + _imports_0 + '" alt="image-20240106160850358"></p><h3 id="_1-全局安装脚手架" tabindex="-1"><a class="header-anchor" href="#_1-全局安装脚手架" aria-hidden="true">#</a> 1, 全局安装脚手架</h3><p>我们提供了 pro-cli 来快速的初始化脚手架。</p><div class="language-bash line-numbers-mode" data-ext="sh"><pre class="language-bash"><code><span class="token function">npm</span> i @ant-design/pro-cli <span class="token parameter variable">-g</span>\n\n<span class="token comment"># 创建项目</span>\npro create xxx\n</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p><strong>选择 umi 的版本</strong></p><blockquote><p>目前选择用最新的模板, 所以选择 @umi4</p><p>如果选择了 umi@4 版本，暂时还不支持全量区块。</p></blockquote><p><strong>安装依赖</strong></p><div class="language-bash line-numbers-mode" data-ext="sh"><pre class="language-bash"><code><span class="token function">npm</span> i \n</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><blockquote><p>这里使用的 node 版本是18.17.1 , <strong>建议版本 &gt; 16</strong></p></blockquote><h3 id="_2-启动项目" tabindex="-1"><a class="header-anchor" href="#_2-启动项目" aria-hidden="true">#</a> 2, 启动项目</h3><div class="language-bash line-numbers-mode" data-ext="sh"><pre class="language-bash"><code><span class="token function">npm</span> run start\n</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p><strong>定义开发规范</strong></p><ul><li>TS</li><li>ESlint</li><li>Prettier</li></ul><p>基于 React + Ant Design 的最新项目初始模板，整合了常用框架和主流业务的示例代码。只需 1 分钟，即可完成网站的基础前端，大家可以在此基础上快速开发自己的项目。</p><p>可以和星球的 Java 后端万用模板无缝对接~</p><p>代码在星球代码库：</p><ul><li>前端万用项目模板：http://gitlab.code-nav.cn/root/yupi-antd-frontend-init</li><li>SpringBoot 后端万用项目模板：http://gitlab.code-nav.cn/root/springboot-init&quot;</li><li>SpringBoot 后端万用项目模板（老版本）：http://gitlab.code-nav.cn/root/springboot-init-old</li></ul>', 25);
+const _hoisted_26 = [
+  _hoisted_1
+];
+function _sfc_render(_ctx, _cache) {
+  return openBlock(), createElementBlock("div", null, _hoisted_26);
+}
+const ReactXiangmu_html = /* @__PURE__ */ _export_sfc(_sfc_main, [["render", _sfc_render], ["__file", "React-xiangmu.html.vue"]]);
+export {
+  ReactXiangmu_html as default
+};
