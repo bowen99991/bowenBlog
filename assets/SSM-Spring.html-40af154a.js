@@ -1,0 +1,4 @@
+const data = JSON.parse('{"key":"v-804920cc","path":"/docs/Java/SSM-Spring.html","title":"SSM-Spring","lang":"en-US","frontmatter":{"title":"SSM-Spring","date":"2021/01/11","tags":["Java"],"categories":null},"headers":[{"level":2,"title":"一，初识Spring框架","slug":"一-初识spring框架","link":"#一-初识spring框架","children":[{"level":3,"title":"1,\\t为什么要学框架","slug":"_1-为什么要学框架","link":"#_1-为什么要学框架","children":[]},{"level":3,"title":"2,\\t认识Spring","slug":"_2-认识spring","link":"#_2-认识spring","children":[]}]},{"level":2,"title":"二，==IOC和DI入门案例【重点】==","slug":"二-ioc和di入门案例【重点】","link":"#二-ioc和di入门案例【重点】","children":[{"level":3,"title":"1,\\tIOC入门案例","slug":"_1-ioc入门案例","link":"#_1-ioc入门案例","children":[]}]}],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"filePathRelative":"docs/Java/SSM-Spring.md"}');
+export {
+  data
+};
