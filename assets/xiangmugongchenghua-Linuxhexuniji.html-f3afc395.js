@@ -1,0 +1,4 @@
+const data = JSON.parse('{"key":"v-39aa6b1a","path":"/docs/Java/xiangmugongchenghua-Linuxhexuniji.html","title":"项目工程化-Linux和虚拟机","lang":"en-US","frontmatter":{"title":"项目工程化-Linux和虚拟机","date":"2021/01/21","tags":["Java"],"categories":null},"headers":[{"level":2,"title":"Linux 操作系统","slug":"linux-操作系统","link":"#linux-操作系统","children":[{"level":3,"title":"1,\\tLinux系统根目录的常用命令和作用","slug":"_1-linux系统根目录的常用命令和作用","link":"#_1-linux系统根目录的常用命令和作用","children":[]},{"level":3,"title":"2,\\t常用命令","slug":"_2-常用命令","link":"#_2-常用命令","children":[]}]},{"level":2,"title":"VMWare 虚拟机","slug":"vmware-虚拟机","link":"#vmware-虚拟机","children":[{"level":3,"title":"1,\\t虚拟机工作的三种模式","slug":"_1-虚拟机工作的三种模式","link":"#_1-虚拟机工作的三种模式","children":[]}]}],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"filePathRelative":"docs/Java/项目工程化-Linux和虚拟机.md"}');
+export {
+  data
+};
